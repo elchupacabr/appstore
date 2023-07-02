@@ -29,9 +29,11 @@ img{
     transition: background 0.2s;
     max-width: 70px;
     width: 100%;
-    
+    display: inline-block;
 }
-
+i{
+    display: inline-block;
+}
 
 .application-container {
     display: flex;
