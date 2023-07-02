@@ -34,7 +34,7 @@ img{
 
 .app-button:before {
     font-family: var(--fa-style-family-classic);
-    content: "\e196";
+    content: "\f019";
 }
 .application-container {
     display: flex;
