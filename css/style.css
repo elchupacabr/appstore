@@ -119,6 +119,7 @@ img{
         margin-bottom: 40px;
         padding: 14px 22.5px;
         width: 100%;
+        max-width: 200px;
         height: max-content;
         border-radius: 12px;
         background-color: #07f;
