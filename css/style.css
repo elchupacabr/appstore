@@ -7,7 +7,7 @@ body{
     background: #fff;
 }
 header{
-    background: whitesmoke;
+    background: darkgray;
     height: 80px;
     width: 100%;
     position: absolute;
@@ -102,21 +102,8 @@ img{
     width: 100px;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-color: whitesmoke;
+    background-color: darkgray;
     display: flex;
 }
-.logo:focus{
-  
-        background: url('../logo2_1.jpg');
-        background-size: 180%;
-        background-position-y: -7px;
-        background-position-x: -41px;
-        height: 80px;
-        width: 100px;
-        background-repeat: no-repeat;
-        background-blend-mode: multiply;
-        background-color: whitesmoke;
-        display: flex;
-    
-}
+
  
