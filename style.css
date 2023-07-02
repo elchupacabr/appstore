@@ -32,10 +32,7 @@ img{
     
 }
 
-.app-button:before {
-    font-family: var(--fa-style-family-classic);
-    content: "\f019";
-}
+
 .application-container {
     display: flex;
     flex-direction: row;
