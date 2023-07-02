@@ -18,6 +18,10 @@ header{
 a{
     text-decoration: none;
 }
+header .content{
+    height: 80px;
+    margin: 0 auto;
+}
 .content {
     display: flex;
     width: 100%;
