@@ -90,7 +90,7 @@ img{
     width: 100px;
     background-repeat: no-repeat;
     background-blend-mode: multiply;
-    background-color: whitesmoke;
+    background-color: darkgrey;
     display: flex;
 }
 .logo:active{
