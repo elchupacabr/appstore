@@ -1,5 +1,7 @@
 *, *:after, *::after, *:before *::before{
     box-sizing: border-box;
+    outline: 0;
+    outline: none;
 }
 body{
     background: #fff;
@@ -79,10 +81,20 @@ img{
 .empty{
     padding: 19px;
 }
-.logo{
-    background: url('./logo.jpg');
-    background-size: 35%;
-    
+.logo {
+    background: url('logo.jpg');
+    background-size: 180%;
+    background-position-y: -7px;
+    background-position-x: -41px;
+    height: 80px;
+    width: 100px;
+    background-repeat: no-repeat;
+    background-blend-mode: multiply;
+    background-color: whitesmoke;
+    display: flex;
+}
+.logo:active{
+    background: url('logo2.jpg');
 
 }
  
