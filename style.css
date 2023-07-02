@@ -15,6 +15,9 @@ header{
     display: flex;
     
 }
+a{
+    text-decoration: none;
+}
 .content {
     display: flex;
     width: 100%;
@@ -71,5 +74,11 @@ img{
 }
 .empty{
     padding: 19px;
+}
+.logo{
+    background: url('./logo.jpg');
+    background-size: 35%;
+    
+
 }
  
