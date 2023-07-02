@@ -25,14 +25,13 @@ img{
     padding: 10px 20px;
     border-radius: 2px;
     margin: 20px 0 0;
-    display: inline-block;
+    display: flex;
     transition: background 0.2s;
     max-width: 70px;
     width: 100%;
-    display: inline-block;
-}
-i{
-    display: inline-block;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
 }
 
 .application-container {
