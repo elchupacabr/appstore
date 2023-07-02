@@ -48,8 +48,8 @@ img{
 }
 
 .app-container {
-    margin: 5px 0px;
-    padding: 5px;
+    margin: 6px 0px;
+    padding: 6px;
     min-height: 150px;
     /* background: #f9f9f9; */
     display: flex;
