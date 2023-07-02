@@ -6,6 +6,8 @@ body{
 }
 header{
     background: #fefefe;
+    height: 80px;
+    width: 100%;
 }
 .content {
     display: flex;
