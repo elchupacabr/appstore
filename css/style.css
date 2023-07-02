@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 *, *:after, *::after, *:before *::before{
     box-sizing: border-box;
     outline: 0;
@@ -5,6 +6,7 @@
 }
 body{
     background: #fff;
+    font-family: 'Roboto', sans-serif;
 }
 header{
     background: darkgray;
