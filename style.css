@@ -8,6 +8,10 @@ header{
     background: whitesmoke;
     height: 80px;
     width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
 }
 .content {
     display: flex;
