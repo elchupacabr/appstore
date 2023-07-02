@@ -26,8 +26,11 @@ img{
     transition: background 0.2s;
     max-width: 70px;
     width: 100%;
+    
 }
+
 .app-button:before {
+    font-family: var(--fa-style-family-classic);
     content: "\f055";
 }
 .application-container {
