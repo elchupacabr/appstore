@@ -87,9 +87,13 @@ img {
     align-items: center;
     justify-content: center;
 }
-.info-container{
+.info-container {
     display: flex;
-    
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    align-content: center;
 }
 
 .app-container {
