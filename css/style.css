@@ -103,7 +103,8 @@ img {
 }
 
 .app-title {
-    padding: 10px;
+    padding: 8px;
+    font-size: x-small;
 }
 
 .empty {
