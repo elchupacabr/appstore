@@ -1,2 +1,1 @@
-permalink
-/appstore/app
+permalink: /appstore/app
