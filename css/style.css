@@ -146,8 +146,13 @@ img {
 }
 
 .title {
+    display: flex;
     font-size: 54px;
     margin: 6% auto;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-content: space-between;
+    justify-content: center;
 }
 
 .instal-btn {
