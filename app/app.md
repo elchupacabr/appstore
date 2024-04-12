@@ -1,3 +1,3 @@
 ---
-permalink: /appstore/app/
+permalink: /appstore/
 ---
